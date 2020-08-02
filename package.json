@@ -1,9 +1,10 @@
 {
 	"name": "crossmobile",
 	"displayName": "CrossMobile",
-	"description": "CrossMobile support",
+	"description": "CrossMobile project launcher",
 	"publisher": "CrossMobile",
-	"version": "0.0.1",
+	"version": "0.1.0",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
